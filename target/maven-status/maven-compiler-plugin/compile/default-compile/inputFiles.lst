@@ -1,0 +1,15 @@
+/home/piva/NetBeansProjects/ProjPedidoProdutosCorrigido/src/main/java/com/oo/projpedidoprodutos/ProjPedidoProdutos.java
+/home/piva/NetBeansProjects/ProjPedidoProdutosCorrigido/src/main/java/com/oo/projpedidoprodutos/classes/Pedido.java
+/home/piva/NetBeansProjects/ProjPedidoProdutosCorrigido/src/main/java/com/oo/projpedidoprodutos/classes/Pessoa.java
+/home/piva/NetBeansProjects/ProjPedidoProdutosCorrigido/src/main/java/com/oo/projpedidoprodutos/classes/Produto.java
+/home/piva/NetBeansProjects/ProjPedidoProdutosCorrigido/src/main/java/com/oo/projpedidoprodutos/file/FilePersistence.java
+/home/piva/NetBeansProjects/ProjPedidoProdutosCorrigido/src/main/java/com/oo/projpedidoprodutos/file/SerializadorCSVPessoa.java
+/home/piva/NetBeansProjects/ProjPedidoProdutosCorrigido/src/main/java/com/oo/projpedidoprodutos/file/SerializadorCSVProduto.java
+/home/piva/NetBeansProjects/ProjPedidoProdutosCorrigido/src/main/java/com/oo/projpedidoprodutos/gerenciador/GerenciadorPessoa.java
+/home/piva/NetBeansProjects/ProjPedidoProdutosCorrigido/src/main/java/com/oo/projpedidoprodutos/gerenciador/GerenciadorProduto.java
+/home/piva/NetBeansProjects/ProjPedidoProdutosCorrigido/src/main/java/com/oo/projpedidoprodutos/gui/FrHome.java
+/home/piva/NetBeansProjects/ProjPedidoProdutosCorrigido/src/main/java/com/oo/projpedidoprodutos/gui/dialogs/DlgCadPedido.java
+/home/piva/NetBeansProjects/ProjPedidoProdutosCorrigido/src/main/java/com/oo/projpedidoprodutos/gui/dialogs/DlgCadPessoa.java
+/home/piva/NetBeansProjects/ProjPedidoProdutosCorrigido/src/main/java/com/oo/projpedidoprodutos/gui/dialogs/DlgCadProduto.java
+/home/piva/NetBeansProjects/ProjPedidoProdutosCorrigido/src/main/java/com/oo/projpedidoprodutos/gui/dialogs/DlgEscolhaCliente.java
+/home/piva/NetBeansProjects/ProjPedidoProdutosCorrigido/src/main/java/com/oo/projpedidoprodutos/gui/dialogs/DlgEscolhaProduto.java
